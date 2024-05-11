@@ -19,6 +19,4 @@ def pause_execution():
 
 pause_execution()
 
-
-
-
+print("Thanks for using this!")
