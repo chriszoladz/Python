@@ -18,5 +18,3 @@ def pause_execution():
     input("Enter to Continue...")
 
 pause_execution()
-
-print("Thanks for using this!")
