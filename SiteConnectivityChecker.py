@@ -1,7 +1,7 @@
 import urllib.request as urllib
 
 def main(url):
-    print("Check connectivity ")
+    print("Checking connectivity ")
 
     response = urllib.urlopen(url)
     print("Connected to", url, "successfully")
