@@ -1,7 +1,3 @@
-
-
-
-
 import urllib.request as urllib
 
 def main(url):
