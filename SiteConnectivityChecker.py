@@ -11,3 +11,6 @@ print("This is a site connectivity checker program")
 input_url = input("Input the URL of the site: ")
 
 main(input_url)
+
+#comments
+
